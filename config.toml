@@ -18,6 +18,9 @@ copyright = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
+#Post Bundle bit of script
+post = "/post/:year/:slug/" 
+
 ############################
 ## Advanced options below ##
 ############################

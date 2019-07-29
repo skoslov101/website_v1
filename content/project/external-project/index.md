@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://lewpealab.psy.utexas.edu/wp-content/uploads/2013/11/koslov_aclm_2019.pdf
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Find our poster describing how cognitive flexibility is a predictor of memory performance `here`.
 tags:
 - Demo
-title: External Project
+title: Cognitive Control impacts in Prospective Memory
 ---
