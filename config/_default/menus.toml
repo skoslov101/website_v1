@@ -9,33 +9,29 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 20
-
-[[main]]
-  name = "Publications"
+  name = "Featured Publication"
   url = "#featured"
-  weight = 30
-
+  weight = 20
+  
 [[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 40
+  name = "Pubs and Presentations"
+  url = "publication/"
+  weight = 30
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "files/Koslov_CV_Jan2019.pdf"
-    weight = 60
+    url = "files/Koslov_CV_online_March2021.pdf"
+    weight = 50
     
 [[main]]
     name = "Posts"
     url = "post/"
-    weight = 70
+    weight = 60
+
