@@ -4,20 +4,23 @@ authors:
 bio: I research memory and decision making. When I'm not doing that, I'm playing soccer, drinking beer, watching theatre, or trying to figure out how to combine the three.
 education:
   courses:
+  - course: Postdoctoral Researcher
+    institution: Baylor College of Medicine
+    year: 2020 - 2021
   - course: Phd in Cognitive Neuroscience
     institution: University of Texas at Austin
     year: 2015 - 2020
   - course: BA in Plan II Honors
     institution: University of Texas at Austin
     year: 2007 - 2012
-email: "seth <dot> koslov <at> bcm <dot> edu"
+email: "seth <dot> koslov <at> pennmedicine <dot> upenn <dot> edu"
 interests:
 - Memory
 - Decision-Making
 - Cognitive Control
 name: Seth R. Koslov
 organizations:
-- name: Perelman School at the University of Pennsylvania
+- name: Perelman School of Medicine at the University of Pennsylvania
   url: ""
 role: Postdoctoral Associate
 social:
