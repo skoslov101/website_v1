@@ -12,7 +12,7 @@
   name = "Featured Publication"
   url = "#featured"
   weight = 20
-  
+
 [[main]]
   name = "Pubs and Presentations"
   url = "publication/"
@@ -27,11 +27,10 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "files/Koslov_CV_July2021.pdf"
+    url = "files/Koslov_CV_Apr2022.pdf"
     weight = 50
-    
+
 [[main]]
     name = "Posts"
     url = "post/"
     weight = 60
-
