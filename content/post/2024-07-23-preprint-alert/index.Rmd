@@ -1,0 +1,22 @@
+---
+title: Preprint Alert!
+author: Seth Koslov
+date: '2022-10-23'
+slug: []
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2024-07-23T11:06:20-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+### Preprint alert!  
+Check out [this awesome preprint](https://www.biorxiv.org/content/10.1101/2020.10.17.342881v1) from the lab's Yvonne Chen on better identification of ripple activity in the hippocampus! 
+
