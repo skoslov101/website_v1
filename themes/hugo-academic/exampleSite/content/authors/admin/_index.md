@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Baylor College of Medicine
+- name: University of Pennsylvania, Perelman School of Medicine
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-Memory, decision-making, and the posterior cingulate.
+Memory, cognitive control, decision-making, and the posterior cingulate.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -53,6 +53,3 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

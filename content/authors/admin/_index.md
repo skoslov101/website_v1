@@ -1,9 +1,12 @@
 ---
 authors:
 - admin
-bio: I research memory and decision making. When I'm not doing that, I'm playing soccer, drinking beer, watching theatre, or trying to figure out how to combine the three.
+bio: I research memory, cognitive control, and decision making. When I'm not doing that, I'm playing soccer, baking bread, watching theatre.
 education:
   courses:
+  - course: Postdoctoral Researcher
+  	 institution: University of Pennsylvania
+  	 year: 2021-2025
   - course: Postdoctoral Researcher
     institution: Baylor College of Medicine
     year: 2020 - 2021
@@ -22,7 +25,7 @@ name: Seth R. Koslov
 organizations:
 - name: Perelman School of Medicine at the University of Pennsylvania
   url: ""
-role: Postdoctoral Associate
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-I'm in my third year as a [BRAIN Initiatve](https://braininitiative.nih.gov/) F32 Postdoctoral Researcher in [Brett Foster's lab](https://www.researchgate.net/profile/Brett-Foster) at [The University of Pennsylvania](https://www.med.upenn.edu/). My current research is focused on the intersection of decision making and memory processes, with a primary focus on the oft neglected Posterior Cingulate Cortex. I hope to use neuroimaging and intracranial electrophysiology to better understand how the subregions of the PCC are implicated in decision making and memory.
+I'm a research associate in my fifth year working in [Dr. Brett Foster's lab](https://www.researchgate.net/profile/Brett-Foster) at [The University of Pennsylvania](https://www.med.upenn.edu/). My current research is focused on the intersection of decision making and memory processes, with a primary focus on the oft neglected and enigmatic Posterior Cingulate Cortex. I hope to use neuroimaging and intracranial electrophysiology to better understand how the subregions of the PCC are implicated in decision making and memory. This is a continuation of the work I was doing as part of a [BRAIN Initiatve](https://braininitiative.nih.gov/) F32 award in the same lab.
 
 I completed my PhD in [Jarrod Lewis-Peacock's lab](https://www.lewpealab.org/) at the University of Texas at Austin. There, I used neuroimaging, novel behavioral paradigms, and eye-tracking to investigate prospective memory (or how we 'remember to remember'). I'm always interested in the dynamic intersection of memory and decision making processes, and how our ability to engage both can lead to real-world memory outcomes. Maybe one day, I'll be able remember where I set down the car keys. Or to make sure I grab a mask on my way our of the door.
 
