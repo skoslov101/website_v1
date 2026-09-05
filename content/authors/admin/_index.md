@@ -5,8 +5,8 @@ bio: I research memory, cognitive control, and decision making. When I'm not doi
 education:
   courses:
   - course: Postdoctoral Researcher
-  	 institution: University of Pennsylvania
-  	 year: 2021-2025
+    institution: University of Pennsylvania
+    year: 2021-2025
   - course: Postdoctoral Researcher
     institution: Baylor College of Medicine
     year: 2020 - 2021
