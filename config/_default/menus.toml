@@ -34,3 +34,8 @@
     name = "Posts"
     url = "post/"
     weight = 60
+
+[[main]]
+    name = "Resources"
+    url = "resources/"
+    weight = 70
