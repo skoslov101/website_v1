@@ -1,5 +1,5 @@
 ---
-title: New Preprint by Liz Siefert and Team on Hippocampal Ripples!
+title: New Preprint by Liz Siefert and team on Hippocampal Ripples!
 author: Seth Koslov
 date: '2026-10-21'
 slug: []
