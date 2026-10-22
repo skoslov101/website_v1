@@ -15,6 +15,7 @@ A collection of resources I've found useful. I'll update these as I discover/rem
 - [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA): A fantastic youtube series of fMRI analyses by Dr. Jeanette Mumford.
 - [CoSMoMVPA](https://cosmomvpa.org/): Code and tutorials for running MVPA in MATLAB
 - [NiLearn](https://nilearn.github.io/stable/index.html): Great resource for conducting fMRI analyses in python with code, tutorials, and examples
+- [Conn Toolbox](https://web.conn-toolbox.org/): An open source toolbox for performing connectivity analyses, with built in preprocessing and visualization tools.
 
 ### Electrophysiology
 - [RAVE](https://rave.wiki/): A fantastic tool for analysis and visualization of intracranial iEEG data. Created and managed by the Beauchamp Lab here at Penn.
@@ -26,6 +27,7 @@ A collection of resources I've found useful. I'll update these as I discover/rem
 ### Misc Data Processing
 - [Mike X Cohen Tutorials](https://www.youtube.com/@mikexcohen1/playlists): This could probably be its own category. Amazing youtube video tutorials on all things relevant for neuroscience data analyses from basic fundamentals to the computations underlying complex timeseries analyses. See also his resources on [neuroscience analysis in MATLAB](https://github.com/mikexcohen/EssentialsOfNeuroscienceWithMATLAB/)
 - [Mark Thornton's Blog](https://markallenthornton.com/blog/): Very informative posts about various social-neuro topics by Dr. Mark Thornton.
+- [Beauchamp Lab Wiki](https://beauchamplab.github.io/LabWiki/pages/Beauchamp): A ton of useful resources for different types of neuroscience data analysis.
 
 ### Figure Making
 - [R Charts](https://r-charts.com/): Tutorials on making nice plots/figures in R!
