@@ -16,7 +16,6 @@ A collection of resources I've found useful. I'll update these as I discover/rem
 - [CoSMoMVPA](https://cosmomvpa.org/): Code and tutorials for running MVPA in MATLAB
 - [NiLearn](https://nilearn.github.io/stable/index.html): Great resource for conducting fMRI analyses in python with code, tutorials, and examples
 - [Conn Toolbox](https://web.conn-toolbox.org/): An open source toolbox for performing connectivity analyses, with built in preprocessing and visualization tools.
-- [Nilearn](https://nilearn.github.io/stable/index.html): fMRI preprocessing, analyses, and visualization in python with step-by-step tutorials
 
 ### Electrophysiology
 - [RAVE](https://rave.wiki/): A fantastic tool for analysis and visualization of intracranial iEEG data. Created and managed by the Beauchamp Lab here at Penn.
