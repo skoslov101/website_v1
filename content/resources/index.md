@@ -16,6 +16,7 @@ A collection of resources I've found useful. I'll update these as I discover/rem
 - [CoSMoMVPA](https://cosmomvpa.org/): Code and tutorials for running MVPA in MATLAB
 - [NiLearn](https://nilearn.github.io/stable/index.html): Great resource for conducting fMRI analyses in python with code, tutorials, and examples
 - [Conn Toolbox](https://web.conn-toolbox.org/): An open source toolbox for performing connectivity analyses, with built in preprocessing and visualization tools.
+- [Nilearn](https://nilearn.github.io/stable/index.html): fMRI preprocessing, analyses, and visualization in python with step-by-step tutorials
 
 ### Electrophysiology
 - [RAVE](https://rave.wiki/): A fantastic tool for analysis and visualization of intracranial iEEG data. Created and managed by the Beauchamp Lab here at Penn.
@@ -24,10 +25,11 @@ A collection of resources I've found useful. I'll update these as I discover/rem
 - [Combinato](https://github.com/jniediek/combinato): Another type of spike sorting software from [Niediek et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166598)
 - [Duplicate Event Removal algorithm](https://github.com/Geaht/DER): Detect, tag, and remove possibly duplicate spikes identified post spike sorting from [Dehnen et al.](https://github.com/Geaht/DER)
 
-### Misc Data Processing
+### Misc Resources
 - [Mike X Cohen Tutorials](https://www.youtube.com/@mikexcohen1/playlists): This could probably be its own category. Amazing youtube video tutorials on all things relevant for neuroscience data analyses from basic fundamentals to the computations underlying complex timeseries analyses. See also his resources on [neuroscience analysis in MATLAB](https://github.com/mikexcohen/EssentialsOfNeuroscienceWithMATLAB/)
 - [Mark Thornton's Blog](https://markallenthornton.com/blog/): Very informative posts about various social-neuro topics by Dr. Mark Thornton.
 - [Beauchamp Lab Wiki](https://beauchamplab.github.io/LabWiki/pages/Beauchamp): A ton of useful resources for different types of neuroscience data analysis.
+- [Dr. Melissa Franch's Website](https://melissafranch.wixsite.com/melissafranch/blank-2): An awesome set of resources including sample F grant documents, math/neuroscience intro videos, and shadow CV example.
 
 ### Figure Making
 - [R Charts](https://r-charts.com/): Tutorials on making nice plots/figures in R!
@@ -44,11 +46,17 @@ A collection of resources I've found useful. I'll update these as I discover/rem
 - [Nature Careers](https://www.nature.com/naturecareers/): Another place to sign up for alerts/search for job opportunities in academia.
 - [Jobs in Neurotech](https://www.neurotechjobs.io/): A place to search for jobs in the growing neurotech field.
 - Example Lab Manuals \[[Peelle Lab Manual](http://jpeelle.net/peellelab_manual.pdf),[MemoLab Manual](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit?tab=t.0#heading=h.gjxtbanvhooh),[Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)\]: Example lab manuals that set norms/standards and expectations. Can be helpful for fostering an inclusive and positive lab culture. Thanks to these folks (Drs. Jonathon Peelle, Maureen Ritchey, and Mariam Aly) for making their manuals publically available!
+- [Neurotech company list](https://singer.gatech.edu/neurotech-list/): A really cool resource I stumbled upon from Dr. Annabelle Singer that lists neurotech companies, their area, and size/stage. While you're at that webpage also check out their resources tab with advice, code, and other helpful links.
 
 ## Pre-Doctoral Research Opportunities
-
 - [Penn's MindCORE DivE In Program](https://mindcore.sas.upenn.edu/events/dive-in/): A funded weekend at Penn where students will get tons of information about graduate school in the mind-sciences (cognitive and clinical psychology, neuroscience, linguistics, etc...), including hands-on writing workshops, mock grad school interviews, and 1-1 mentorship. 
 - [Penn's MindCORE Summer Fellowship Program](https://mindcore.sas.upenn.edu/research/summer/): Paid summer research opportunitiy for Penn and non-Penn students conducting mentored research.
+- [NIH's Summer Internship Program](https://www.training.nih.gov/research-training/pb/sip/): Stipend-supported summer research opportunity to get experience working in an NIH lab.
+- [Guide to finding a paid post-bacc position](https://www.apa.org/ed/precollege/psn/2025/02/post-bacc-research-position): A guide to finding a research related job in psychology between undergrad and applying to graduate school.
+- [Guide for 'things to know before you apply'](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2013/10/BeforeYouApply.pdf)
+- [NSF's Research Experiences for Undergraduates](https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates)
+- Some potentially helpful resources for grad school postings [Psych Grad School Wiki](https://psychgradsearch.wikidot.com/other-2023), [Doctoral Programs in Clinical Psych](https://clinicalpsychgradschool.org/forums/forum/opportunities/), [PREDOC](https://www.predoc.org/opportunities), [Post-Grad Research Jobs](https://undergrad.psychology.fas.harvard.edu/post-graduate-research-jobs), [Another job listing site](https://pbs.dartmouth.edu/undergraduate/resources), [Psych Jobs/Internships](https://psychologyjobsinternships.wordpress.com/).
+
 
 ## Miscellaneous
 - [Google Scholar + AI](https://scholar.google.com/scholar_labs/search?hl=en&authuser=0): Use AI to help refine your google-scholar search for relevant articles
